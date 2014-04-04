@@ -1,5 +1,4 @@
 C:\Users\zsen\Desktop\asp.net project\asp.net project\bin\asp.net project.dll
 C:\Users\zsen\Desktop\asp.net project\asp.net project\bin\asp.net project.pdb
-C:\Users\zsen\Desktop\asp.net project\asp.net project\obj\Debug\asp.net project.csprojResolveAssemblyReference.cache
 C:\Users\zsen\Desktop\asp.net project\asp.net project\obj\Debug\asp.net project.dll
 C:\Users\zsen\Desktop\asp.net project\asp.net project\obj\Debug\asp.net project.pdb
