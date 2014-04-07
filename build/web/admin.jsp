@@ -82,6 +82,7 @@
                                     <input type="text" name="details" class="form-control" id="exampleInputEmail1" placeholder="DETAILS">
                                 </div>
                                 <button type="submit" class="btn btn-default">ADD TO RECORD</button>
+                                <a href="index.jsp" class="btn btn-default" role="button">GO BACK TO MAIN PAGE</a>
                             </form>
                               <% }else {
                                     String roomID="";
@@ -118,6 +119,7 @@
                                     <input type="text" class="form-control" name="details" id="exampleInputEmail1" value="<% out.print(specification); %>">
                                 </div>
                                 <button type="submit" class="btn btn-default">UPDATE RECORD</button>
+                                <a href="index.jsp" class="btn btn-default" role="button">GO BACK TO MAIN PAGE</a>
                             </form>
                               <% } %>
                         </div>
